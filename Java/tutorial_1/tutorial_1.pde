@@ -4,7 +4,7 @@
 rect(25,20,30,10);
 
 stroke(0);
-fill(250, 0, 0);
+fill(12);
 ellipse(25,40, 30, 10);
 
 stroke(0);
